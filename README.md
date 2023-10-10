@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/sandinur157" target="_blank"><img src="https://raw.githubusercontent.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/main/public/img/logo.png" width="120"></a>
+    <a href="https://github.com/sandinur157" target="_blank"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="120"></a>
 </p>
 
 ## Tentang Aplikasi
