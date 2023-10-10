@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://github.com/sandinur157" target="_blank"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="120"></a>
+    <a href="https://github.com/sandinur157" target="_blank"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400"></a>
 </p>
 
 ## Tentang Aplikasi
 
-Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola transaksi pada sebuah toko atau oleh kasir. Aplikasi ini dibuat menggunakan Laravel v8.* dan minimal PHP v7.4 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
+Aplikasi e-Book ini didesain menggunakan laravel dan vue.js sebagai backendnya serta tailwind.css sebagai frontend utamanya. dalam aplikasi e-book ini diharapkan users dapat membaca segala banyak judul buku dan memesan buku yang ingin dibaca melalu aplikasi ini yang bisa diakses setiap saat.
 
 ### Beberapa Fitur yang tersedia:
 - Manajemen Kategori Produk
@@ -35,11 +35,11 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone https://github.com/Team-Laravel-Apps/e-book.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/Team-Laravel-Apps/e-book/archive/refs/heads/master.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -59,7 +59,7 @@ Konfigurasi file .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=example_app
+DB_DATABASE=e-book
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -67,9 +67,9 @@ Opsional
 ```bash
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=base64:QGRW4K7UVzS2M5HE2ZCLlUuiCtOIzRSfb38iWApkphE=
+APP_KEY=base64:gW2rmF4baCPsJ+kgutwrYRAtUVwBFpXeOMeDM7WrOJc=
 APP_DEBUG=true
-APP_URL=http://example-app.test
+APP_URL=http://e-book
 ```
 Generate key
 ```bash
