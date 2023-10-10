@@ -6,32 +6,6 @@
 
 Aplikasi e-Book ini didesain menggunakan laravel dan vue.js sebagai backendnya serta tailwind.css sebagai frontend utamanya. dalam aplikasi e-book ini diharapkan users dapat membaca segala banyak judul buku dan memesan buku yang ingin dibaca melalu aplikasi ini yang bisa diakses setiap saat.
 
-### Beberapa Fitur yang tersedia:
-- Manajemen Kategori Produk
-- Manajemen Produk
-  - Multiple Delete
-  - Cetak Barcode
-- Manajemen Member atau Anggota
-  - Cetak Kartu Member
-- Manajemen Supplier
-- Transaksi Pengeluaran
-- Transaksi Pembelian
-- Transaksi Penjualan
-- Laporan Pendapatan atau Laba & Rugi
-  - Bulanan
-  - Harian
-  - Custom Tanggal
-- Custom Tipe Nota
-  - Nota Besar
-  - Nota Kecil / Thermal Nota
-- Manajemen User dan Profil
-- Pengaturan Toko
-  - Identitas
-  - Upload Desain Kartu Member
-  - Setting Diskon Member
-- User (Administrator, Kasir)
-- Grafik ChartJS pada Dashboard
-
 ## Instalasi
 #### Via Git
 ```bash
